@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 안녕하세요! 저는 손초희입니다 😊
 
-<!--
-**chohuison/chohuison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🔭 Java & Spring 기반 백엔드 개발자를 지향합니다.
+- 🌱 꾸준히 성장하며 새로운 기술에 도전하는 것을 즐깁니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+
+## 📂 Projects
+- 🐾 **Petopia** - 반려동물 통합 관리 앱 (Flutter + Spring Boot + AWS)
+- 🧑‍💻 **코딩 커뮤니티** - 문제 등록 및 커뮤니티 기능 구현 (React + Spring + MySQL)
+- ⚾ **야구 일기장 앱** - KBO 팬들을 위한 기록 앱 (Flutter + Kakao Login)
+
+
+
+## 📫 Contact
+- 📧 Email: schabc8436@gmail.com
+
+---
+
+<!-- 방문자 수 카운터 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square" alt="Visitor"/>
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="150"/>
+</p>
