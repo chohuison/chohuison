@@ -1,6 +1,7 @@
 # 👋 안녕하세요! 저는 손초희입니다 😊
 
 ## 💻 About Me
+- 🎓 금오공과대학교 컴퓨터소프트웨어공학과 졸업
 - 🔭 Java & Spring 기반 백엔드 개발자를 지향합니다.
 - 🌱 꾸준히 성장하며 새로운 기술에 도전하는 것을 즐깁니다.
 
@@ -24,14 +25,3 @@
 - 📧 Email: schabc8436@gmail.com
 
 ---
-
-<!-- 방문자 수 카운터 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square" alt="Visitor"/>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="150"/>
-</p>
