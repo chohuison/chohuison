@@ -1,5 +1,15 @@
 # 👋 안녕하세요! 저는 손초희입니다 😊
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chohuison&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/chohuison?pet-id=710096630909269486"
+    width="600"
+    height="120"
+  />
+</a>
+
+  
 ## 💻 About Me
 - 🎓 금오공과대학교 컴퓨터소프트웨어공학과 졸업
 - 🔭 Java & Spring 기반 백엔드 개발자를 지향합니다.
